@@ -42,10 +42,3 @@ sudo ./target/release/network-packet-analyzer --interface eth0
 
 Replace `eth0` with your desired interface name.
 
-## Note
-
-This program requires root privileges to capture packets. Use with caution and only on networks you own or have permission to monitor.
-
-## License
-
-This project is licensed under the MIT License.
