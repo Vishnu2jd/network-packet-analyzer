@@ -1,0 +1,238 @@
+Starting packet capture on interface: enp7s0
+Ethernet: Src: 8a:6e:f3:0b:72:71, Dst: 01:00:5e:00:00:fc
+IPv4: Src: 172.22.45.75, Dst: 224.0.0.252
+Unsupported IP Protocol
+Ethernet: Src: 8a:6e:f3:0b:72:71, Dst: 33:33:00:01:00:03
+IPv6: Src: fe80::5f28:38b:789f:b559, Dst: ff02::1:3
+Unsupported IP Protocol
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: 3c:33:32:2c:67:d1, Dst: 01:80:c2:00:00:00
+Unsupported EtherType
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.46, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::4167:94d8:57b7:5f4f, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.46, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::4167:94d8:57b7:5f4f, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 10:68:38:8c:6e:b5, Dst: 01:00:5e:7f:ff:fa
+IPv4: Src: 172.22.47.100, Dst: 239.255.255.250
+UDP: Src Port: 50119, Dst Port: 1900
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.46, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::4167:94d8:57b7:5f4f, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: a8:a1:59:54:03:e1, Dst: 48:a9:8a:50:25:f8
+IPv4: Src: 172.24.21.68, Dst: 172.64.41.4
+TCP: Src Port: 46860, Dst Port: 443
+Ethernet: Src: 48:a9:8a:50:25:f8, Dst: a8:a1:59:54:03:e1
+IPv4: Src: 172.64.41.4, Dst: 172.24.21.68
+TCP: Src Port: 443, Dst Port: 46860
+Ethernet: Src: a8:a1:59:54:03:e1, Dst: 48:a9:8a:50:25:f8
+IPv4: Src: 172.24.21.68, Dst: 172.64.41.4
+TCP: Src Port: 46860, Dst Port: 443
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: 01:00:5e:7f:ff:fa
+IPv4: Src: 172.22.44.251, Dst: 239.255.255.250
+UDP: Src Port: 44194, Dst Port: 1900
+Ethernet: Src: 50:3e:aa:ad:20:25, Dst: 01:00:5e:02:02:02
+IPv4: Src: 172.22.46.74, Dst: 224.2.2.2
+UDP: Src Port: 49322, Dst Port: 8995
+Ethernet: Src: 28:d0:43:3b:35:96, Dst: 01:00:5e:4d:4d:4d
+IPv4: Src: 172.22.44.255, Dst: 224.77.77.77
+UDP: Src Port: 12177, Dst Port: 12177
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.46, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::4167:94d8:57b7:5f4f, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.46, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::4167:94d8:57b7:5f4f, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.46, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 6c:6a:77:0d:75:c3, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::4167:94d8:57b7:5f4f, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.47.93, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::f75c:417d:f7bc:e025, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: fc:11:65:8f:91:19, Dst: 33:33:00:01:00:02
+IPv6: Src: fe80::fe11:65ff:fe8f:9119, Dst: ff02::1:2
+UDP: Src Port: 546, Dst Port: 547
+Ethernet: Src: 10:68:38:8c:6e:b5, Dst: 01:00:5e:7f:ff:fa
+IPv4: Src: 172.22.47.100, Dst: 239.255.255.250
+UDP: Src Port: 50119, Dst Port: 1900
+Ethernet: Src: e8:5a:8b:76:61:91, Dst: 33:33:00:00:00:02
+IPv6: Src: fe80::d5fa:288b:be39:5771, Dst: ff02::2
+Unsupported IP Protocol
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: 92:c7:2d:8f:46:61, Dst: 01:00:5e:7f:ff:fa
+IPv4: Src: 172.22.46.190, Dst: 239.255.255.250
+UDP: Src Port: 60124, Dst Port: 1900
+Ethernet: Src: 50:3e:aa:ad:20:25, Dst: 01:00:5e:02:02:02
+IPv4: Src: 172.22.46.74, Dst: 224.2.2.2
+UDP: Src Port: 49322, Dst Port: 8995
+Ethernet: Src: 08:d2:3e:b7:a2:5a, Dst: 01:00:5e:40:98:8f
+IPv4: Src: 172.22.44.104, Dst: 239.192.152.143
+UDP: Src Port: 54159, Dst Port: 6771
+Ethernet: Src: 08:d2:3e:b7:a2:5a, Dst: 01:00:5e:40:98:8f
+IPv4: Src: 172.22.44.104, Dst: 239.192.152.143
+UDP: Src Port: 6771, Dst Port: 6771
+Ethernet: Src: 08:d2:3e:b7:a2:5a, Dst: 01:00:5e:40:98:8f
+IPv4: Src: 172.22.44.104, Dst: 239.192.152.143
+UDP: Src Port: 6771, Dst Port: 6771
+Ethernet: Src: 08:d2:3e:b7:a2:5a, Dst: 33:33:ef:c0:98:8f
+IPv6: Src: fe80::9c20:b177:1834:ac88, Dst: ff15::efc0:988f
+UDP: Src Port: 54163, Dst Port: 6771
+Ethernet: Src: 08:d2:3e:b7:a2:5a, Dst: 33:33:ef:c0:98:8f
+IPv6: Src: fe80::9c20:b177:1834:ac88, Dst: ff15::efc0:988f
+UDP: Src Port: 6771, Dst Port: 6771
+Ethernet: Src: 08:d2:3e:b7:a2:5a, Dst: 33:33:ef:c0:98:8f
+IPv6: Src: fe80::9c20:b177:1834:ac88, Dst: ff15::efc0:988f
+UDP: Src Port: 6771, Dst Port: 6771
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: 11:11:11:11:11:11
+Unsupported EtherType
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.47.93, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::f75c:417d:f7bc:e025, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.47.93, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::f75c:417d:f7bc:e025, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: 11:11:11:11:11:11
+Unsupported EtherType
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: 11:11:11:11:11:11
+Unsupported EtherType
+Ethernet: Src: 22:ca:56:2c:fd:19, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: 33:33:00:00:00:16
+IPv6: Src: fe80::f4b5:cbff:fe51:edb3, Dst: ff02::16
+Unsupported IP Protocol
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: cc:08:fa:77:57:71, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.47.130, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: cc:08:fa:77:57:71, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::24:3ce8:6f9e:6ec0, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: cc:08:fa:77:57:71, Dst: 11:11:11:11:11:11
+Unsupported EtherType
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: 8a:6e:f3:0b:72:71, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.45.75, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 8a:6e:f3:0b:72:71, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::5f28:38b:789f:b559, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 8a:6e:f3:0b:72:71, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.45.75, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 8a:6e:f3:0b:72:71, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::5f28:38b:789f:b559, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.47.93, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 14:13:33:8d:43:bf, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::f75c:417d:f7bc:e025, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: 3c:33:32:2c:67:d1, Dst: 01:80:c2:00:00:00
+Unsupported EtherType
+Ethernet: Src: 10:68:38:8c:6e:b5, Dst: 01:00:5e:7f:ff:fa
+IPv4: Src: 172.22.47.100, Dst: 239.255.255.250
+UDP: Src Port: 50119, Dst Port: 1900
+Ethernet: Src: ba:c7:f2:57:d2:b7, Dst: 11:11:11:11:11:11
+Unsupported EtherType
+Ethernet: Src: f6:b5:cb:51:ed:b3, Dst: 33:33:00:00:00:16
+IPv6: Src: fe80::f4b5:cbff:fe51:edb3, Dst: ff02::16
+Unsupported IP Protocol
+Ethernet: Src: 20:34:fb:47:4e:03, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.116, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
+Ethernet: Src: fc:11:65:8f:87:2e, Dst: 33:33:00:01:00:02
+IPv6: Src: fe80::fe11:65ff:fe8f:872e, Dst: ff02::1:2
+UDP: Src Port: 546, Dst Port: 547
+Ethernet: Src: 50:3e:aa:ad:20:25, Dst: 01:00:5e:02:02:02
+IPv4: Src: 172.22.46.74, Dst: 224.2.2.2
+UDP: Src Port: 49322, Dst Port: 8995
+Ethernet: Src: ae:02:11:02:bc:00, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.47.246, Dst: 224.0.0.251
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: ae:02:11:02:bc:00, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::ac02:11ff:fe02:bc00, Dst: ff02::fb
+UDP: Src Port: 5353, Dst Port: 5353
+Ethernet: Src: d6:35:38:2c:c8:03, Dst: 01:00:5e:00:00:01
+IPv4: Src: 0.0.0.0, Dst: 224.0.0.1
+Unsupported IP Protocol
+Ethernet: Src: d6:35:38:2c:c8:03, Dst: 33:33:00:00:00:01
+IPv6: Src: fe80::d635:38ff:fe2c:c800, Dst: ff02::1
+Unsupported IP Protocol
+Ethernet: Src: 50:3e:aa:ad:20:25, Dst: 33:33:ff:7f:77:2d
+IPv6: Src: fe80::a847:12f1:de7f:772d, Dst: ff02::1:ff7f:772d
+Unsupported IP Protocol
+Ethernet: Src: dc:41:a9:c6:2c:85, Dst: 01:00:5e:00:00:fc
+IPv4: Src: 172.22.47.147, Dst: 224.0.0.252
+Unsupported IP Protocol
+Ethernet: Src: dc:41:a9:c6:2c:85, Dst: 33:33:00:01:00:03
+IPv6: Src: fe80::a0e7:cb1d:935a:8e92, Dst: ff02::1:3
+Unsupported IP Protocol
+Ethernet: Src: f8:54:f6:1b:a3:51, Dst: 01:00:5e:00:00:fb
+IPv4: Src: 172.22.46.27, Dst: 224.0.0.251
+Unsupported IP Protocol
+Ethernet: Src: 50:5a:65:b0:a6:39, Dst: 33:33:00:00:00:fb
+IPv6: Src: fe80::3c2e:7347:1b45:924b, Dst: ff02::fb
+Unsupported IP Protocol
+Ethernet: Src: 1a:47:69:34:b8:7c, Dst: 33:33:00:00:00:02
+IPv6: Src: fe80::1847:69ff:fe34:b87c, Dst: ff05::2
+Unsupported IP Protocol
+Ethernet: Src: 10:68:38:8c:6e:b5, Dst: 01:00:5e:7f:ff:fa
+IPv4: Src: 172.22.47.100, Dst: 239.255.255.250
+UDP: Src Port: 50119, Dst Port: 1900
+Ethernet: Src: 2c:3b:70:db:e2:f3, Dst: 33:33:ff:c8:99:85
+IPv6: Src: fe80::168d:381b:c5c8:9985, Dst: ff02::1:ffc8:9985
+Unsupported IP Protocol
+Ethernet: Src: 04:6c:59:c0:2b:73, Dst: 33:33:00:00:00:0c
+IPv6: Src: fe80::8fe0:aa8d:e58e:e9d6, Dst: ff02::c
+Unsupported IP Protocol
+Ethernet: Src: 28:d0:43:3b:35:96, Dst: 01:00:5e:4d:4d:4d
+IPv4: Src: 172.22.44.255, Dst: 224.77.77.77
+Unsupported IP Protocol
+Ethernet: Src: 1a:47:69:34:b8:7c, Dst: 33:33:00:00:00:02
+IPv6: Src: fe80::1847:69ff:fe34:b87c, Dst: ff02::2
+Unsupported IP Protocol
+Ethernet: Src: d4:01:c3:36:f4:a0, Dst: ff:ff:ff:ff:ff:ff
+Unsupported EtherType
